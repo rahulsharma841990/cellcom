@@ -1,0 +1,44 @@
+.main-div{
+		background-color: #e5e5e5;
+		min-height: 642px
+	}
+	.login-form{
+		padding: 0px;
+		background: #fff;
+		border-radius: 10px 10px 0px 0px;
+		margin-top:15%;
+		margin-left:28%;
+	}
+
+	.login_header{
+		padding: 10px;
+		background-color: #222222;
+		color: white;
+		border-radius: 5px 5px 0px 0px;
+	}
+	button{
+	    max-width: 150px;
+	    width: 100%;
+    }
+
+	.login-form form .form-group{
+		padding: 10px 0px;
+	}
+    .login-form form {
+    	padding: 10px
+    }				
+	input{
+		border-radius: 5px;
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    padding: 0 10px;
+    box-sizing: border-box;
+    line-height: 40px;
+    color: #222222;
+    font-size: 13px;
+    height: 40px
+	}
+	.login_header h4{
+		margin: 0px;
+
+	}
